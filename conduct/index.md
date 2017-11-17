@@ -4,7 +4,7 @@ This document is based on the [Rust Code of Conduct](https://www.rust-lang.org/c
 
 ## Conduct
 
-**Contact**: [brayniac+conduct@gmail.com](mailto:brayniac+conduct@gmail.com)
+**Contact**: [conduct@brayniac.org](mailto:conduct@brayniac.org)
 
 * We are committed to providing a friendly, safe and welcoming environment for all, regardless of level of experience, gender identity and expression, sexual orientation, disability, personal appearance, body size, race, ethnicity, age, religion, nationality, or other similar characteristic.
 * Avoid using overtly sexual nicknames or other nicknames that might detract from a friendly, safe and welcoming environment for all.
