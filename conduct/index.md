@@ -1,6 +1,6 @@
 # The Code of Conduct
 
-This document is based on the [Rust Code of Conduct](https://www.rust-lang.org/conduct.html) and outlines the standard of conduct which is both expected and enforced as part of this project. You may also view this [Code of Conduct](https://brayniac.github.io/conduct/index.html) online.
+This document is based on the [Rust Code of Conduct](https://www.rust-lang.org/conduct.html) and outlines the standard of conduct which is both expected and enforced as part of this project. You may also view this [Code of Conduct](https://brayniac.github.io/conduct/) online.
 
 ## Conduct
 
